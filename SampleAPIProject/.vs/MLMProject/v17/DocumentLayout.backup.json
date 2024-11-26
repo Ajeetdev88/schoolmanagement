@@ -1,0 +1,1423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\mlmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:mlmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\OrdersService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112452_AddedTransactionIdAndDiscountToOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106085357_AddedTableForCartAndOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|d:\\arshad\\resource\\sourcecode\\sampleapiprojects\\mlmprojects\\mlmprojects\\mlmproject\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6414184F-2082-4AC1-BAF5-6378142FEEFB}|MLMProject.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241009115236_del-inventoryi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924111457_recreating-producttagtabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrdersDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderItemDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\OrdersRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IOrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241121052300_OrderTotalAddedDiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartItemDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240731121254_login-log-change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112600_AddedTransactionIdAndDiscountToOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IKYCRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IKYCService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106114733_ChangesInShoppingCartForRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\WelcomeMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106090741_AddedTableForCartAndOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderStatusDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceItemDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\PaymentStatusDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\Invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\InvoiceItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\PaymentStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106092256_AddedTableForOrderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\MLMProjectDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductVariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924092105_add some chnges by vikas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AdminAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\KYCEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserTypeEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ResetPasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\TagEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Counts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ChangePasswordRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Addresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Validation\\UserValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240930035648_add-inventory-tovariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AttributeDefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductTag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240801044353_add-new-table-for-privacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240730042422_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240822102224_placementsandcustomertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240903100556_Session-entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906102759_added-addresses-welcomemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906104856_modified-addressesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240912071710_Add file field in welcome page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240916054141_products-category-variant-image-tags-brands-attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240918065236_add-subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240919042619_inventory-addr-change-pricetovariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924114325_brandId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924112754_recreating-producttagtabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\UserAuthDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IService\\IUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IRepository\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\ConfigureDependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\PaginatedResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\Order.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\Order.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA6wBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:17:36.696Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrdersDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrdersDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrdersDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrdersDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:06:45.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\OrdersService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\OrdersService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\OrdersService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:40:21.239Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAowK4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:09:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IService\\IUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\IService\\IUser.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IService\\IUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\IService\\IUser.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwD8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:55:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:54:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\IRepository\\IUserRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAywDgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:52:58.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:45:10.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T05:21:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UserAuthDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\UserAuthDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\UserAuthDTO.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\UserAuthDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\UserAuthDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:22:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MLMProject.csproj",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\MLMProject.csproj",
+              "RelativeDocumentMoniker": "MLMProject.csproj",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\MLMProject.csproj",
+              "RelativeToolTip": "MLMProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T06:20:22.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ConfigureDependencyInjection.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\ConfigureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\ConfigureDependencyInjection.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\ConfigureDependencyInjection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\ConfigureDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:52:06.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:48:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAwwAcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:37:39.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:47:39.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "PaginatedResponseDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Application\\DTOs\\PaginatedResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:47:03.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:45:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "MLMProjectDbContext.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MLMProjects\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:40:22.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:05:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAgwC4BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:30:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IProductService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IProductService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:31:28.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:30:18.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageUploadController.cs",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\ImageUploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageUploadController.cs",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\Controllers\\ImageUploadController.cs",
+              "RelativeToolTip": "Controllers\\ImageUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:51:14.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MLMProjectDbContext.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Persistance\\MLMProjectDbContext.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:50:13.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:45:17.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderStatus.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderStatus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:19:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderItemDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderItemDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:07:04.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\OrdersRepository.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Repository\\OrdersRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:40:29.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAnwI4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:02:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IOrderService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IOrderService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IOrderService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:46:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderItem.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\OrderEntities\\OrderItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:41:19.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241121052300_OrderTotalAddedDiscount.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241121052300_OrderTotalAddedDiscount.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241121052300_OrderTotalAddedDiscount.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241121052300_OrderTotalAddedDiscount.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241121052300_OrderTotalAddedDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:23:00.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "machine.config",
+              "DocumentMoniker": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config",
+              "ToolTip": "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T12:18:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAA8CAAAAAAAAAAAuwB0CAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:12:18.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCartItemDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartItemDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartItemDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartItemDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:40:06.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShoppingCartDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\CartDTO\\ShoppingCartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:39:42.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240731121254_login-log-change.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240731121254_login-log-change.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240731121254_login-log-change.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240731121254_login-log-change.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240731121254_login-log-change.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:57:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241113112600_AddedTransactionIdAndDiscountToOrder.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112600_AddedTransactionIdAndDiscountToOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112600_AddedTransactionIdAndDiscountToOrder.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112600_AddedTransactionIdAndDiscountToOrder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112600_AddedTransactionIdAndDiscountToOrder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:26:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241113112452_AddedTransactionIdAndDiscountToOrder.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112452_AddedTransactionIdAndDiscountToOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112452_AddedTransactionIdAndDiscountToOrder.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112452_AddedTransactionIdAndDiscountToOrder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241113112452_AddedTransactionIdAndDiscountToOrder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:24:53.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IKYCRepository.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IKYCRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IKYCRepository.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IKYCRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IRepository\\IKYCRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:22:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IKYCService.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IKYCService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IKYCService.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IKYCService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\IService\\IKYCService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T03:45:33.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241106114733_ChangesInShoppingCartForRef.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106114733_ChangesInShoppingCartForRef.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106114733_ChangesInShoppingCartForRef.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106114733_ChangesInShoppingCartForRef.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106114733_ChangesInShoppingCartForRef.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:47:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WelcomeMessage.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\WelcomeMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\WelcomeMessage.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\WelcomeMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\WelcomeMessage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:13:08.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241106090741_AddedTableForCartAndOrders.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106090741_AddedTableForCartAndOrders.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106090741_AddedTableForCartAndOrders.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106090741_AddedTableForCartAndOrders.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106090741_AddedTableForCartAndOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:07:41.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:02:06.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderStatusDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderStatusDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderStatusDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderStatusDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\OrderDTO\\OrderStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:09:47.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InvoiceItemDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceItemDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceItemDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\InvoiceItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:01:09.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaymentStatusDTO.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\PaymentStatusDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\PaymentStatusDTO.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\PaymentStatusDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Application\\DTOs\\PaymentInvoicesDTO\\PaymentStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:11:09.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094752_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:47:52.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\Invoice.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\Invoice.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\Invoice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:38:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106094425_AddedTableForPaymentStatusInvoiceInvoiceItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:44:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\InvoiceItem.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\InvoiceItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\InvoiceItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:38:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\PaymentStatus.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\PaymentStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\PaymentInvoices\\PaymentStatus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:39:54.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241106092256_AddedTableForOrderStatus.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106092256_AddedTableForOrderStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106092256_AddedTableForOrderStatus.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106092256_AddedTableForOrderStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106092256_AddedTableForOrderStatus.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:22:56.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MLMProjectDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\MLMProjectDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\MLMProjectDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\MLMProjectDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\MLMProjectDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALQDAAAAAAAAAAAwwHsCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:39:49.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductVariant.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductVariant.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductVariant.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:51:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241106085357_AddedTableForCartAndOrders.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106085357_AddedTableForCartAndOrders.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106085357_AddedTableForCartAndOrders.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106085357_AddedTableForCartAndOrders.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241106085357_AddedTableForCartAndOrders.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:53:57.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserAuth.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserAuth.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserAuth.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:18:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:01:54.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductEntities.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductEntities.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductEntities.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductEntities.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:33:49.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductType.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:33:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240924092105_add some chnges by vikas.Designer.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924092105_add some chnges by vikas.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924092105_add some chnges by vikas.Designer.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924092105_add some chnges by vikas.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924092105_add some chnges by vikas.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:39:11.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminAuth.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AdminAuth.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AdminAuth.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AdminAuth.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AdminAuth.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:09:28.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "KYCEntities.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\KYCEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\KYCEntities.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\KYCEntities.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\KYCEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:06:21.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserTypeEntity.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserTypeEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserTypeEntity.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserTypeEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\UserTypeEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:12:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ResetPasswordRequest.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:12:14.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TagEntities.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\TagEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\TagEntities.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\TagEntities.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\TagEntities.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:51:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Counts.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Counts.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Counts.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Counts.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Counts.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:10:22.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ChangePasswordRequest.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:10:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Addresses.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Addresses.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Addresses.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Addresses.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Addresses.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:31:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserValidation.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Validation\\UserValidation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Validation\\UserValidation.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Validation\\UserValidation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Validation\\UserValidation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:32:15.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "D:\\Arshad\\resource\\sourcecode\\SampleAPIProjects\\MLMProjects\\MLMProjects\\MLMProject\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T10:57:09.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241009115236_del-inventoryi.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241009115236_del-inventoryi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241009115236_del-inventoryi.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241009115236_del-inventoryi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20241009115236_del-inventoryi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:52:36.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240930035648_add-inventory-tovariant.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240930035648_add-inventory-tovariant.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240930035648_add-inventory-tovariant.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240930035648_add-inventory-tovariant.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240930035648_add-inventory-tovariant.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:56:48.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AttributeDefinition.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AttributeDefinition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AttributeDefinition.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AttributeDefinition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\AttributeDefinition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:15:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductTag.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductTag.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductTag.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductTag.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:11:22.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240801044353_add-new-table-for-privacy.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240801044353_add-new-table-for-privacy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240801044353_add-new-table-for-privacy.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240801044353_add-new-table-for-privacy.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240801044353_add-new-table-for-privacy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240730042422_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240730042422_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240730042422_InitialCreate.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240730042422_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240730042422_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:57.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240822102224_placementsandcustomertype.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240822102224_placementsandcustomertype.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240822102224_placementsandcustomertype.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240822102224_placementsandcustomertype.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240822102224_placementsandcustomertype.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240903100556_Session-entity.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240903100556_Session-entity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240903100556_Session-entity.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240903100556_Session-entity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240903100556_Session-entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:48.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240906102759_added-addresses-welcomemessage.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906102759_added-addresses-welcomemessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906102759_added-addresses-welcomemessage.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906102759_added-addresses-welcomemessage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906102759_added-addresses-welcomemessage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:44.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240906104856_modified-addressesmodel.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906104856_modified-addressesmodel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906104856_modified-addressesmodel.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906104856_modified-addressesmodel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240906104856_modified-addressesmodel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:40.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240912071710_Add file field in welcome page.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240912071710_Add file field in welcome page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240912071710_Add file field in welcome page.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240912071710_Add file field in welcome page.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240912071710_Add file field in welcome page.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240916054141_products-category-variant-image-tags-brands-attributes.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240916054141_products-category-variant-image-tags-brands-attributes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240916054141_products-category-variant-image-tags-brands-attributes.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240916054141_products-category-variant-image-tags-brands-attributes.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240916054141_products-category-variant-image-tags-brands-attributes.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:46:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240918065236_add-subcategory.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240918065236_add-subcategory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240918065236_add-subcategory.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240918065236_add-subcategory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240918065236_add-subcategory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:44:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240919042619_inventory-addr-change-pricetovariant.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240919042619_inventory-addr-change-pricetovariant.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240919042619_inventory-addr-change-pricetovariant.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240919042619_inventory-addr-change-pricetovariant.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240919042619_inventory-addr-change-pricetovariant.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIBJwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:44:02.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240924114325_brandId.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924114325_brandId.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924114325_brandId.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924114325_brandId.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924114325_brandId.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:43:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Brand.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:34:14.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240924112754_recreating-producttagtabl.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924112754_recreating-producttagtabl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924112754_recreating-producttagtabl.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924112754_recreating-producttagtabl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924112754_recreating-producttagtabl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:27:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240924111457_recreating-producttagtabl.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924111457_recreating-producttagtabl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924111457_recreating-producttagtabl.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924111457_recreating-producttagtabl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Infrastructure\\Migrations\\20240924111457_recreating-producttagtabl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:14:57.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ProductAttributes.cs",
+              "DocumentMoniker": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductAttributes.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductAttributes.cs",
+              "ToolTip": "D:\\Arshad\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductAttributes.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dotnet\\MLMProjectNew\\EMS Web API\\MLMProjects\\MLMProject.Domain\\Entities\\ProductAttributes.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:41:06.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+@MLMProject_HostAddress = https://localhost:44303
+
+GET {{MLMProject_HostAddress}}/api/auth/{id}
+
+###
+
+POST {{MLMProject_HostAddress}}/api/auth/AddUser
+Content-Type: application/json
+
+{
+  //UserAuth
+}
+
+###
+
+GET {{MLMProject_HostAddress}}/api/auth/GetUsers
+
+###
+
+POST {{MLMProject_HostAddress}}/api/auth/Login
+Content-Type: application/json
+
+{
+  //LoginRequest
+}
+
+###
+
+GET {{MLMProject_HostAddress}}/weatherforecast
+
+###
+###
+
+GET {{MLMProject_HostAddress}}/api/Cart/getCartItems?userId=3
+
+###
+
+
+GET {{MLMProject_HostAddress}}/api/Cart/getCartDetails?userId=3
+
+###

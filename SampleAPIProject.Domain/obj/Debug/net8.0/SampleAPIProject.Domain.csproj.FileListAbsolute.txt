@@ -1,0 +1,12 @@
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\bin\Debug\net8.0\SampleAPIProject.Domain.deps.json
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\bin\Debug\net8.0\SampleAPIProject.Domain.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\bin\Debug\net8.0\SampleAPIProject.Domain.pdb
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.csproj.AssemblyReference.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.AssemblyInfoInputs.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.AssemblyInfo.cs
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.csproj.CoreCompileInputs.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\refint\SampleAPIProject.Domain.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\SampleAPIProject.Domain.pdb
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Domain\obj\Debug\net8.0\ref\SampleAPIProject.Domain.dll

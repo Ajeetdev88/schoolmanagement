@@ -1,0 +1,55 @@
+2024-11-26 09:56:50.3001|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2024-11-26 09:56:51.1511|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.0 initialized 'MLMProjectDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None 
+2024-11-26 09:56:51.4250|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2024-11-26 09:56:51.4995|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (71ms). 
+2024-11-26 09:56:51.4995|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database '' on server 'Arshad786'. 
+2024-11-26 09:57:24.2378|DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database '' on server 'Arshad786'. 
+2024-11-26 09:57:24.3508|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2024-11-26 09:57:24.4361|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2024-11-26 09:57:24.4609|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\acer\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-11-26 09:57:24.4715|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\acer\AppData\Local\ASP.NET\DataProtection-Keys\key-63d632d7-6134-4c0b-8463-9c0888ece691.xml'. 
+2024-11-26 09:57:24.6383|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {63d632d7-6134-4c0b-8463-9c0888ece691}. 
+2024-11-26 09:57:24.6508|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {63d632d7-6134-4c0b-8463-9c0888ece691} with expiration date 2024-12-22 06:36:50Z as default key. 
+2024-11-26 09:57:24.6508|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {63d632d7-6134-4c0b-8463-9c0888ece691} as the default key. 
+2024-11-26 09:57:24.6527|DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {63d632d7-6134-4c0b-8463-9c0888ece691} was loaded during application startup. 
+2024-11-26 09:57:24.7100|WARN|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The WebRootPath was not found: D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject\wwwroot. Static files may be unavailable. 
+2024-11-26 09:57:24.7685|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly SampleAPIProject 
+2024-11-26 09:57:24.7685|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery 
+2024-11-26 09:57:24.7685|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2024-11-26 09:57:24.7685|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2024-11-26 09:57:24.8508|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/swagger/index.html - - - 
+2024-11-26 09:57:24.8843|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-11-26 09:57:24.8843|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-11-26 09:57:24.8843|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject 
+2024-11-26 09:57:24.8843|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2024-11-26 09:57:26.1918|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2024-11-26 09:57:26.1918|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-11-26 09:57:26.2642|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup is scheduled to include Browser Link script injection. 
+2024-11-26 09:57:26.2642|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2024-11-26 09:57:26.3027|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup was updated to include Browser Link script injection. 
+2024-11-26 09:57:26.3027|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2024-11-26 09:57:26.3027|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398514582257920" disconnecting. 
+2024-11-26 09:57:26.3090|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/swagger/index.html - 200 - text/html;charset=utf-8 1467.2050ms 
+2024-11-26 09:57:26.3350|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/swagger/index.js - - - 
+2024-11-26 09:57:26.3440|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-11-26 09:57:26.3619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/swagger/index.css - - - 
+2024-11-26 09:57:26.3619|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-11-26 09:57:26.3619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/swagger/index.js - 200 - application/javascript;charset=utf-8 35.4228ms 
+2024-11-26 09:57:26.3619|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/_framework/aspnetcore-browser-refresh.js - - - 
+2024-11-26 09:57:26.3767|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript;+charset=utf-8 4.8730ms 
+2024-11-26 09:57:26.3767|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2024-11-26 09:57:26.3767|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /index.css was not modified 
+2024-11-26 09:57:26.3885|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Handled. Status code: 304 File: /index.css 
+2024-11-26 09:57:26.3885|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/swagger/index.css - 304 - text/css 34.0979ms 
+2024-11-26 09:57:26.4034|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398518877225007" disconnecting. 
+2024-11-26 09:57:26.4034|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/_vs/browserLink - - - 
+2024-11-26 09:57:26.5379|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398518877225009" disconnecting. 
+2024-11-26 09:57:26.5467|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 141.7864ms 
+2024-11-26 09:57:26.6627|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44303/swagger/v1/swagger.json - - - 
+2024-11-26 09:57:26.6627|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2024-11-26 09:57:26.8335|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44303/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 170.5233ms 

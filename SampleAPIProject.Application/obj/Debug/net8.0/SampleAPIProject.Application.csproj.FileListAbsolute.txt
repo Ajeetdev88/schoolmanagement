@@ -1,0 +1,15 @@
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\bin\Debug\net8.0\SampleAPIProject.Application.deps.json
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\bin\Debug\net8.0\SampleAPIProject.Application.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\bin\Debug\net8.0\SampleAPIProject.Application.pdb
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\bin\Debug\net8.0\SampleAPIProject.Domain.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\bin\Debug\net8.0\SampleAPIProject.Domain.pdb
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.csproj.AssemblyReference.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.AssemblyInfoInputs.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.AssemblyInfo.cs
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.csproj.CoreCompileInputs.cache
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAP.CE4C9A03.Up2Date
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\refint\SampleAPIProject.Application.dll
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\SampleAPIProject.Application.pdb
+D:\Arshad\resource\sourcecode\SampleAPIProjects\MLMProjects\SampleAPIProject\SampleAPIProject.Application\obj\Debug\net8.0\ref\SampleAPIProject.Application.dll
